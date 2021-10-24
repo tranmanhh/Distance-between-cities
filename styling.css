@@ -1,0 +1,33 @@
+html, body{
+    height: 100%;
+}
+
+body{
+    background: url("bg-img.jpg") center center no-repeat;
+    background-size: cover;
+}
+
+.container{
+    color: white;
+}
+#header{
+    text-align: center;
+}
+#header h1{
+    letter-spacing: 2.5px;
+}
+#header p{
+    font-size: 20px;
+}
+.container button{
+    margin-bottom: 15px;
+}
+
+#map{
+    height: 30%;
+    margin-bottom: 15px;
+}
+#message{
+    text-align: center;
+    font-size: 20px;
+}
